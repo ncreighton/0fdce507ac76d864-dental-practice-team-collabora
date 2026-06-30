@@ -1,0 +1,2 @@
+# 0fdce507ac76d864-dental-practice-team-collabora
+dental practice professionals waste hours on manually copying data between apps and rebuilding the same process every time. This fixes that.  Built for production: error handling, retry logic, and failure notifications included. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Dental Practice Team Co
